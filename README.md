@@ -33,3 +33,12 @@ IoU=0.9, R@10: 0.0389874890893; IoU=0.9, R@5: 0.0328775094559; IoU=0.9, R@1: 0.0
 
 ```
 
+
+## Parameter Tuning
+
+we put all the papameters in the SLTA.ipynb
+
+## Dataset
+
+We provide one processed dataset: TACoS, Charades-STA, DiDeMo.
+You can download them from the [Baidu SkyDrive](https://pan.baidu.com/s/1AFrUYKJ_iiZXwhK2I10lVA) and password is 'zlpq'.
