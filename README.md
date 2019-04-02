@@ -8,7 +8,7 @@ To well align the given textual query and the video moment candidates, we devise
 **Please cite our ICMR'19 paper if you use our codes. Thanks!** 
 
 ## Environment Settings
-We use the framework pytorch. 
+We use the framework tensorflow. 
 - tensorflow version:  '1.7.0'
 - python version: '3.6'
 
