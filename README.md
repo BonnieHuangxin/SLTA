@@ -25,10 +25,11 @@ After training process, the value of "R@n, IoU=m" in the test dataset will be pr
 Output:
 
 ```
-AGREE at embedding size 32, run Iteration:30, NDCG and HR at 5
-...
-User Iteration 10 [449.8 s]: HR = 0.6216, NDCG = 0.4133, [1.0 s]
-Group Iteration 10 [471.9 s]: HR = 0.5910, NDCG = 0.4005, [23.0 s]
+IoU=0.1, R@10: 0.59266802444; IoU=0.1, R@5: 0.459703229561; IoU=0.1, R@1: 0.223741635147
+IoU=0.3, R@10: 0.41780622636; IoU=0.3, R@5: 0.31859179517; IoU=0.3, R@1: 0.170788478324
+IoU=0.5, R@10: 0.262729124236; IoU=0.5, R@5: 0.207739307536; IoU=0.5, R@1: 0.11492580739
+IoU=0.7, R@10: 0.149549025313; IoU=0.7, R@5: 0.122490544079; IoU=0.7, R@1: 0.0677916787896
+IoU=0.9, R@10: 0.0389874890893; IoU=0.9, R@5: 0.0328775094559; IoU=0.9, R@1: 0.0139656677335
 
 ```
 
