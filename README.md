@@ -30,7 +30,6 @@ IoU=0.3, R@10: 0.41780622636; IoU=0.3, R@5: 0.31859179517; IoU=0.3, R@1: 0.17078
 IoU=0.5, R@10: 0.262729124236; IoU=0.5, R@5: 0.207739307536; IoU=0.5, R@1: 0.11492580739
 IoU=0.7, R@10: 0.149549025313; IoU=0.7, R@5: 0.122490544079; IoU=0.7, R@1: 0.0677916787896
 IoU=0.9, R@10: 0.0389874890893; IoU=0.9, R@5: 0.0328775094559; IoU=0.9, R@1: 0.0139656677335
-
 ```
 
 
@@ -41,6 +40,7 @@ we put all the papameters in the SLTA.ipynb
 ## Dataset
 
 We provide one processed dataset: TACoS, Charades-STA, DiDeMo.
+
 You can download them from the [Baidu SkyDrive](https://pan.baidu.com/s/1AFrUYKJ_iiZXwhK2I10lVA) and password is:
 
 ```
